@@ -7,9 +7,9 @@
 </p>
 <h3 align="left">aprendizados recentes:</h3>
 <p align="left">
-<a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> codigo: https://github.com/ecrseer/replapp
-<a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> codigo: https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-Js
-<a href="https://yt-clockshare.netlify.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTtime
+<a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> codigo: https://github.com/ecrseer/replapp <br/>
+<a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> codigo: https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-Js<br/>
+<a href="https://yt-clockshare.netlify.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTtime<br/>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
