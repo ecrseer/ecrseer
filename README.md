@@ -6,12 +6,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-justino-147246169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabriel-justino-147246169/" height="30" width="40" /></a>
 </p>
 <h3 align="left">aprendizados recentes:</h3>
-<p align="left">
-<a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> codigo: https://github.com/ecrseer/replapp <br/>
-<a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> codigo: https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-Js<br/>
-<a href="https://yt-clockshare.netlify.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTtime<br/>
-<a href="https://ecrseer.github.io/simple-Html-Css/" />Testando responsividade/grid/flexbox</a> codigo: https://github.com/ecrseer/simple-Html-Css<br/>
-
+<p align="left"><ul>
+<li><a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> codigo: https://github.com/ecrseer/replapp </li><br/>
+<li><a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> codigo: https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-Js</li><br/>
+<li><a href="https://yt-clockshare.netlify.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTtime</li><br/>
+<li><a href="https://ecrseer.github.io/simple-Html-Css/" />Testando responsividade/grid/flexbox</a> codigo: https://github.com/ecrseer/simple-Html-Css</li><br/>
+</ul>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <h4> Já tive um pouco de contato com: </h4>
