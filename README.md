@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Couto</h1>
-<h3 align="center">Aluno de Análise e desenvolvimento de Sistemas na Unicarioca - Rio de Janeiro,Brasil</h3>
+<h3 align="center">Aluno de <br/>Análise e desenvolvimento de Sistemas na Unicarioca<br/> - Rio de Janeiro,Brasil</h3>
 <h6 align="center"> Procurando estágio <h6/>
 <h3 align="left">Links:</h3>
 <p align="left">
