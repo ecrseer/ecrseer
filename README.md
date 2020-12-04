@@ -8,6 +8,7 @@
 </p>
 <h3 align="left">aprendizados recentes:</h3>
 <p align="left"><ul>
+  <li><a href="https://gd-sheet-y2.vercel.app/" />Consulta á tabelas no google drive </a> codigo: https://github.com/ecrseer/gdSheetY2 </li><br/>
 <li><a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> codigo: https://github.com/ecrseer/replapp </li><br/>
 <li><a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> codigo: https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-Js</li><br/>
 <li><a href="https://yt-clockshare.netlify.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTtime</li><br/>
