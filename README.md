@@ -9,8 +9,7 @@
 <h3 align="left">aprendizados recentes:</h3>
 <p align="left"><ul>
   <li><a href="http://time2shareyt.vercel.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTime2/tree/pbl-ThumbCompo</li><br/>
- <li> <h6>codigo:<h6/>https://github.com/ecrseer/databasePhp teste php sql</li><br/>
-  <li><h6>codigo:<h6/>https://github.com/ecrseer/teste-pratico-dev-estagio-php  leitura do arquivo pacientes.csv </li><br/>
+
   <li><a href="https://gd-sheet-y2.vercel.app/" />Consulta á tabelas no google drive </a> codigo: https://github.com/ecrseer/gdSheetY2 </li><br/>
 <li><a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> codigo: https://github.com/ecrseer/replapp </li><br/>
 <li><a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> codigo: https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-Js</li><br/>
