@@ -2,9 +2,11 @@
 <h3 align="center">Aluno de <br/>Análise e desenvolvimento de Sistemas na Unicarioca<br/> - Rio de Janeiro,Brasil</h3>
 <h6 align="center"> Procurando estágio <h6/>
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecrseer&show_icons=true&locale=en&layout=compact" alt="ecrseer" /></p>
-<h3 align="left">Links:</h3>
+<h3 align="left">Contatos:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-justino-147246169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabriel-justino-147246169/" height="30" width="40" /></a>
+<a href="https://twitter.com/ecrseer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ecrseer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-justino-147246169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-justino-147246169" height="30" width="40" /></a>
 </p>
 <h3 align="left">aprendizados recentes:</h3>
 <p align="left"><ul>
