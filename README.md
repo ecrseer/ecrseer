@@ -10,6 +10,8 @@
 </p>
 <h3 align="left">aprendizados recentes:</h3>
 <p align="left"><ul>
+  <li><a href="https://g4br13l-ju5t1n0.vercel.app/" />Consultando a swApi - api do star wars </a> codigo: https://github.com/ecrseer/g4br13lJu5t1n0 </li><br/>
+  
   <li><a href="http://time2shareyt.vercel.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTime2/tree/pbl-ThumbCompo</li><br/>
 
   <li><a href="https://gd-sheet-y2.vercel.app/" />Consulta á tabelas no google drive </a> codigo: https://github.com/ecrseer/gdSheetY2 </li><br/>
