@@ -1,4 +1,4 @@
-<h1 align="center">Gabriel Couto</h1>
+<h1 align="center"><a href="https://ecrseer.github.io/">Gabriel Couto</a></h1>
 <h3 align="center">Aluno de <br/>Engenharia de Software no Infnet<br/> - Rio de Janeiro,Brasil</h3>
 <h6 align="center"> Procurando estágio <h6/>
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecrseer&show_icons=true&locale=en&layout=compact" alt="ecrseer" /></p>
@@ -8,7 +8,8 @@
 <a href="https://twitter.com/ecrseer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ecrseer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel-justino-147246169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-justino-147246169" height="30" width="40" /></a>
 </p>
-<h3 align="left">aprendizados recentes:</h3>
+  
+<h3 align="left"> recentes:</h3>
 <p align="left"><ul>
   <li><a href="https://github.com/ecrseer/Procura-aluguel-Olx-selenium-dotnet" /> Automação webscrapping em Selenium/.NET que soma aluguel com condominio
   <li><a href="https://g4br13l-ju5t1n0.vercel.app/" />Consultando a swApi - api do star wars </a> codigo: https://github.com/ecrseer/g4br13lJu5t1n0 </li><br/>
