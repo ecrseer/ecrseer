@@ -1,4 +1,5 @@
-
+<div>
+  
 <h1 align="center"><a href="https://ecrseer.github.io/">Gabriel Couto </a></h1>
 <h3 align="center">Aluno de <br/>Engenharia de Software no Infnet<br/> - Rio de Janeiro,Brasil</h3>
 <h6 align="center"> Procurando estágio <h6/>
@@ -37,3 +38,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecrseer&show_icons=true&locale=en" alt="ecrseer" /></p>
+
+  </div>
