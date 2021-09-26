@@ -27,7 +27,7 @@
 <li><a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> codigo: https://github.com/ecrseer/replapp </li><br/>
 
 
-<li><a href="https://ecrseer.github.io/spacer2" />Separando letras em maiusculo</a> codigo: https://github.com/ecrseer/spacer2/tree/origin/TxtSpacer/tests</li><br/>
+<br/>
 
 </ul>
 </p>
