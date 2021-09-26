@@ -13,7 +13,7 @@
   
 <h3 align="left"> recentes:</h3>
 <p align="left"><ul>
-  <li><a href="https://github.com/ecrseer/Procura-aluguel-Olx-selenium-dotnet" /> Automação webscrapping em Selenium/.NET que soma aluguel com condominio
+  
   <li><a href="https://g4br13l-ju5t1n0.vercel.app/" />Consultando a swApi - api do star wars </a> codigo: https://github.com/ecrseer/g4br13lJu5t1n0 </li><br/>
   
   <li><a href="http://time2shareyt.vercel.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTime2/tree/amaznV3</li><br/>
