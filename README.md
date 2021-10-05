@@ -14,17 +14,19 @@
 <h3 align="left"> recentes:</h3>
 <p align="left"><ul>
   
-  <li><a href="https://g4br13l-ju5t1n0.vercel.app/" />Consultando a swApi - api do star wars </a> codigo: https://github.com/ecrseer/g4br13lJu5t1n0 </li><br/>
+  <li><a href="https://libfyinfnet.netlify.app" /> Libfy - Chat sobre artistas com Spotify API </a> <a href="https://github.com/21E221E3GRPEDS01C2N2P1/Libfy">🖥️ Ver o código 🖥️</a></li><br/>
   
-  <li><a href="http://time2shareyt.vercel.app/" />Compartilhe links do youtube no tempo certo</a> codigo: https://github.com/ecrseer/YTime2/tree/amaznV3</li><br/>
+<li><a href="https://g4br13l-ju5t1n0.vercel.app/" />Consultando a swApi - api do star wars </a> <a href="https://github.com/ecrseer/g4br13lJu5t1n0">🖥️ Ver o código 🖥️</a></li><br/>
 
-  <li>🚧<a href="https://gd-sheet-y2.vercel.app/" />Consulta á tabelas no google drive </a> codigo: https://github.com/ecrseer/gdSheetY2 </li><br/>
+<li><a href="http://time2shareyt.vercel.app/" />Compartilhe links do youtube no tempo certo</a> <a href="https://github.com/ecrseer/YTime2/tree/amaznV">🖥️ Ver o código 🖥️</a></li><br/>
 
-<li><a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> codigo: https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-Js</li><br/>
+<li>🚧<a href="https://gd-sheet-y2.vercel.app/" />Consulta á tabelas no google drive </a> <a href="https://github.com/ecrseer/gdSheetY2">🖥️ Ver o código 🖥️</a></li><br/>
 
-<li><a href="https://gabriel-justino-dsvendas.netlify.app/dashboard" />Dashboard em Spring e React</a> codigo: https://github.com/ecrseer/projeto-sds3 </li><br/>
+<li><a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> <a href="https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-JS">🖥️ Ver o código 🖥️</a></li><br/>
 
-<li><a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> codigo: https://github.com/ecrseer/replapp </li><br/>
+<li><a href="https://gabriel-justino-dsvendas.netlify.app/dashboard" />Dashboard em Spring e React</a> <a href="https:/github.com/ecrseer/projeto-sds3">🖥️ Ver o código 🖥️</a></li><br/>
+
+<li><a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> <a href="https://github.com/ecrseer/replapp">🖥️ Ver o código 🖥️</a></li><br/>
 
 
 <br/>
