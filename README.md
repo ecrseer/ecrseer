@@ -6,7 +6,8 @@
 <h6 align="center"> Procurando estágio <h6/>
   <div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecrseer&show_icons=true&locale=en&layout=compact" alt="ecrseer" /></p>
 <h3 align="left">Contatos:</h3>
-
+   
+  <img align="right" src="https://komarev.com/ghpvc/?username=ecrseer" />
 <p align="left">
 <a href="https://twitter.com/ecrseer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ecrseer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel-justino-147246169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-justino-147246169" height="30" width="40" /></a>
