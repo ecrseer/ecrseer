@@ -3,7 +3,7 @@
 <h1 align="center"><a href="https://ecrseer.github.io/">Gabriel Couto </a></h1>
   
 <h3 align="center">Aluno de <br/>Engenharia de Software no Infnet<br/> - Rio de Janeiro,Brasil</h3>
-<h6 align="center"> Procurando estágio <h6/>
+
   <div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecrseer&show_icons=true&locale=en&layout=compact" alt="ecrseer" /></p>
 <h3 align="left">Contatos:</h3>
    
