@@ -25,6 +25,9 @@
   
  <li> Api em Java Spring com envio de arquivos multipart  <a href="https://github.com/ecrseer/oauthCotacaoProduto">🖥️ Ver o código 🖥️</a></li><br/> 
  
+  
+ <li> App Android Kotlin : Faça anotações com imagens ilustrativas  <a href="https://github.com/ecrseer/note-completion-kotlin">🖥️ Ver o código 🖥️</a></li><br/> 
+ 
  
 <li><a href="https://g4br13l-ju5t1n0.vercel.app/" />Consultando a swApi - api do star wars </a> <a href="https://github.com/ecrseer/g4br13lJu5t1n0">🖥️ Ver o código 🖥️</a></li><br/>
 
