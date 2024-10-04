@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/ecrseer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ecrseer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel-justino-147246169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-justino-147246169" height="30" width="40" /></a>
+<a href="https://dev.to/gabriel_couto_ecrser" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png" alt="gabriel-justino-147246169" height="30" width="40" /></a>
 </p>
  
   
