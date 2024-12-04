@@ -26,7 +26,7 @@
 
  <li> Api de Almoxarifado com CQRS+Java+Axon+Google pub sub  <a href="https://github.com/ecrseer/petfriends2-axon-g-pubsub">🖥️ Ver o código 🖥️</a></li><br/> 
 
- <li> Api de Transportes Java e WebFlux para requisições assincronas sem bloqueios!  <a href="https://github.com/ecrseer/veiculos-webflux-spring-k8s">🖥️ Ver o código 🖥️</a></li><br/> 
+ <li> Api de Transportes Java Spring, Eureka microservices e WebFlux   <a href="https://github.com/ecrseer/veiculos-webflux-spring-k8s">🖥️ Ver o código 🖥️</a></li><br/> 
   
  <li> Api em Java Spring com envio de arquivos multipart  <a href="https://github.com/ecrseer/oauthCotacaoProduto">🖥️ Ver o código 🖥️</a></li><br/> 
  
