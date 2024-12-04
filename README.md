@@ -42,7 +42,6 @@
 
 <li><a href="http://time2shareyt.vercel.app/" />Compartilhe links do youtube no tempo certo</a> <a href="https://github.com/ecrseer/YTime2/tree/amaznV3">🖥️ Ver o código 🖥️</a></li><br/>
 
-<li>🚧<a href="https://gd-sheet-y2.vercel.app/" />Consulta á tabelas no google drive </a> <a href="https://github.com/ecrseer/gdSheetY2">🖥️ Ver o código 🖥️</a></li><br/>
 
 <li><a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> <a href="https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-JS">🖥️ Ver o código 🖥️</a></li><br/>
 
