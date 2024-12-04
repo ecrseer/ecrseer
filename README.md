@@ -15,9 +15,7 @@
 </p>
  
   
-  <div align="left">
-    <a href="https://github.com/ecrseer?tab=projects&type=classic"> Ver projetos recentes ordenados por linguagem/framework  </a>
-  </div>
+  
   
 <h3 align="left"> Projetos recentes:</h3>
 <p align="left"><ul>
@@ -29,7 +27,13 @@
  <li> Api de Transportes Java Spring, Eureka microservices e WebFlux   <a href="https://github.com/ecrseer/veiculos-webflux-spring-k8s">🖥️ Ver o código 🖥️</a></li><br/> 
   
  <li> Api em Java Spring com envio de arquivos multipart  <a href="https://github.com/ecrseer/oauthCotacaoProduto">🖥️ Ver o código 🖥️</a></li><br/> 
- 
+ <li> Api em Java Spring com envio de arquivos multipart  <a href="https://github.com/ecrseer/oauthCotacaoProduto">🖥️ Ver o código 🖥️</a></li><br/> 
+<li> Fullstack app em Nuxt+nestJS gerenciador de filmes e outras midias com chat:
+<a href="https://github.com/ecrseer/twowatched-front">Frontend</a>
+<a href="https://github.com/ecrseer/twowatched-back">Backend </a>
+<a href="https://github.com/ecrseer/twowatch-users">Backend usuarios</a>
+
+  </li><br/> 
   
  <li> App Android Kotlin : Faça anotações com imagens ilustrativas  <a href="https://github.com/ecrseer/note-completion-kotlin">🖥️ Ver o código 🖥️</a></li><br/> 
  
