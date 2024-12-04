@@ -23,6 +23,10 @@
 <p align="left"><ul>
   
   <li><a href="https://libfyinfnet.netlify.app" /> Libfy - Chat sobre artistas com Spotify API </a> <a href="https://github.com/21E221E3GRPEDS01C2N2P1/Libfy">🖥️ Ver o código 🖥️</a></li><br/>
+
+ <li> Api de Almoxarifado com CQRS+Java+Axon+Google pub sub  <a href="https://github.com/ecrseer/petfriends2-axon-g-pubsub">🖥️ Ver o código 🖥️</a></li><br/> 
+
+ <li> Api de Transportes Java e WebFlux para requisições assincronas sem bloqueios!  <a href="https://github.com/ecrseer/veiculos-webflux-spring-k8s">🖥️ Ver o código 🖥️</a></li><br/> 
   
  <li> Api em Java Spring com envio de arquivos multipart  <a href="https://github.com/ecrseer/oauthCotacaoProduto">🖥️ Ver o código 🖥️</a></li><br/> 
  
@@ -39,8 +43,7 @@
 <li><a href="https://covid-info-br.netlify.app" />PWA sobre Dados da Covid19</a> <a href="https://github.com/ecrseer/coviddio-Digital-Innovation-One-PWA-React-JS">🖥️ Ver o código 🖥️</a></li><br/>
 
 <li><a href="https://gabriel-justino-dsvendas.netlify.app/dashboard" />Dashboard em Spring e React</a> <a href="https://github.com/ecrseer/projeto-sds3">🖥️ Ver o código 🖥️</a></li><br/>
-
-<li><a href="https://ecrseer.github.io/replapp/" />Removedor de Underlines</a> <a href="https://github.com/ecrseer/replapp">🖥️ Ver o código 🖥️</a></li><br/>
+ 
 
 
 <br/>
