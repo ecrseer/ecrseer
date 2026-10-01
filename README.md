@@ -21,6 +21,12 @@
 <p align="left"><ul>
   
   <li><a href="https://libfyinfnet.netlify.app" /> Libfy - Chat sobre artistas com Spotify API </a> <a href="https://github.com/21E221E3GRPEDS01C2N2P1/Libfy">🖥️ Ver o código 🖥️</a></li><br/>
+  <li> Fullstack app em Nuxt+nestJS gerenciador de filmes e outras midias com chat:
+<a href="https://github.com/ecrseer/twowatched-front">Frontend</a>
+<a href="https://github.com/ecrseer/twowatched-back">Backend </a>
+<a href="https://github.com/ecrseer/twowatch-users">Backend usuarios</a>
+
+  </li><br/> 
 
  <li> Api de Almoxarifado com CQRS+Java+Axon+Google pub sub  <a href="https://github.com/ecrseer/petfriends2-axon-g-pubsub">🖥️ Ver o código 🖥️</a></li><br/> 
 
@@ -28,12 +34,7 @@
   
  <li> Api em Java Spring com envio de arquivos multipart  <a href="https://github.com/ecrseer/oauthCotacaoProduto">🖥️ Ver o código 🖥️</a></li><br/> 
  <li> Api em Java Spring com envio de arquivos multipart  <a href="https://github.com/ecrseer/oauthCotacaoProduto">🖥️ Ver o código 🖥️</a></li><br/> 
-<li> Fullstack app em Nuxt+nestJS gerenciador de filmes e outras midias com chat:
-<a href="https://github.com/ecrseer/twowatched-front">Frontend</a>
-<a href="https://github.com/ecrseer/twowatched-back">Backend </a>
-<a href="https://github.com/ecrseer/twowatch-users">Backend usuarios</a>
 
-  </li><br/> 
   
  <li> App Android Kotlin : Faça anotações com imagens ilustrativas  <a href="https://github.com/ecrseer/note-completion-kotlin">🖥️ Ver o código 🖥️</a></li><br/> 
  
