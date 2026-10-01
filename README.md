@@ -19,7 +19,7 @@
   
 <h3 align="left"> Projetos recentes:</h3>
 <p align="left"><ul>
-  
+  <li><a href="https://github.com/ecrseer/cert-namo" /> Certidao de Namoro app </a> <a href="https://github.com/ecrseer/cert-namo">🖥️ Ver o código 🖥️</a></li><br/>
   <li><a href="https://libfyinfnet.netlify.app" /> Libfy - Chat sobre artistas com Spotify API </a> <a href="https://github.com/21E221E3GRPEDS01C2N2P1/Libfy">🖥️ Ver o código 🖥️</a></li><br/>
   <li> Fullstack app em Nuxt+nestJS gerenciador de filmes e outras midias com chat:
 <a href="https://github.com/ecrseer/twowatched-front">Frontend</a>
